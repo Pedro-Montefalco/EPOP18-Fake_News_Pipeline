@@ -1,0 +1,13 @@
+# dados e modelos (baixados pelos notebooks)
+Fake.br-Corpus/
+FACTCK.BR/
+bertimbau/
+bertimbau_final/
+*.npy
+*.safetensors
+*.bin
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.env

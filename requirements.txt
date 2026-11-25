@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+datasets
+sentence-transformers
+scikit-learn
+pandas
+numpy
+scipy
+matplotlib
+gradio
